@@ -1,0 +1,10 @@
+.main{
+    min-height: calc(100vh - 182px);
+}
+
+
+.footer{
+    text-align: center;
+    padding: 3rem;
+    color: #bbbbbb;
+}

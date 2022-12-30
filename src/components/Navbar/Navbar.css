@@ -1,0 +1,11 @@
+.navbar{
+    position: sticky;
+    /* width: 100%; */
+    padding: 1rem;
+    /* background: #000; */
+}
+.navbar__logo{
+    width: 150px;
+    /* background: var(---light-color); */
+    margin: 0 auto;
+}

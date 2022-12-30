@@ -1,0 +1,15 @@
+.home__cards{
+    border-top: 1px solid #eee;
+    /* display: flex; */
+    /* margin-top: 10px; */
+    /* background-color: red; */
+    /* border-radius: 15px; */
+    /* overflow: hidden; */
+}
+
+/* Small */
+@media (min-width: 768px) {
+    .home__cards {
+        display: flex;
+    }
+}
